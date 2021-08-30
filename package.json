@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing practice for TOP",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mynameisfrostwalker/TestingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mynameisfrostwalker/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/Mynameisfrostwalker/TestingPractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.1.0"
+  }
+}
